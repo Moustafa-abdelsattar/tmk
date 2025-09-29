@@ -12,6 +12,20 @@ __pycache__/
 # Environment variables
 .env
 
+# Gmail API credentials and tokens
+credentials.json
+token.json
+sheets_token.json
+service-account.json
+
+# Test and debug files (not for production)
+test_*.py
+*test*.py
+*debug*.py
+verify_*.py
+*diagnosis*.py
+*_test.py
+
 # Log files
 *.log
 
